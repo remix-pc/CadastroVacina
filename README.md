@@ -1,2 +1,3 @@
 # CadastroVacina
-Programa de Java feito com base em uma atividade no Curso Técnico de Desenvolvimento de Sistemas
+
+Um programa em Java feito a base de uma das atividades proposta pelo professor no Curso Técnico de Desenvolvimento de Sistemas. A partir de uma classe chamada "Vacina", é feito 3 tipos de classes que consiste em: uma classe chamada "TestaVacinaScanner", onde foi feito a criação de um objeto do tipo "Vacina" e a sua interação com o Usúario é só através do console, uma classe chamada "TestaVacinaJOptionPane", onde foi feito a criação de um outro objeto do tipo "Vacina" e sua interação com o Usúario é através do "JOptionPane" e por fim, mas duas classes criadas também a partir do objeto do tipo "Vacina" porém foi feita para ter mais interação com o usúario, as classes criadas foram a classe "tela" por meio do "JFrame" e uma classe chamada "TestaTela" para deixar a tela vísivel.
